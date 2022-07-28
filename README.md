@@ -12,7 +12,7 @@ Additional README details can be found [here](https://github.com/PrimeAcademy/re
 - [x] create server folder with the following content
         - [x] create index.html file
         - [x] create server.js file
-        - [x] create scripts/client.js file and jquery.js file
+        - [x] create scripts/client.js file and vendors/jquery.js file
         - [x] create style styles/style.css file
 - [] install express with npm init --yes then npm install express
 - []
