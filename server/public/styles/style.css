@@ -1,0 +1,20 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    text-align: center;
+    border-style: dashed;
+    background-color: slategrey;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+#calculator{
+    margin: 1.5em;
+}
+
+button{
+    margin: 2px;
+}
