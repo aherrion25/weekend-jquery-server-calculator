@@ -17,3 +17,5 @@ Additional README details can be found [here](https://github.com/PrimeAcademy/re
 - [x] install express with npm init --yes then npm install express
 - [x] create input fields on index.html
 - [x] create buttons on index.html
+- [x] create readyNow function
+- [x] create click handlers for buttons
