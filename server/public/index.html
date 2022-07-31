@@ -14,13 +14,19 @@
     <div id="content">
         <div id="calculator">
             <input type="number" id="first-input" data-number="numberOne"> 
-            <button id="add-button">+</button> 
-            <button id="subtract-button">-</button>
-            <button id="multiply-button">*</button>
-            <button id="divide-button">/</button>
+            <button id="add-button" class="cal-button">+</button> 
+            <button id="subtract-button" class="cal-button">-</button>
+            <button id="multiply-button" class="cal-button">*</button>
+            <button id="divide-button" class="cal-button">/</button>
             <input type="number" id="second-input" data-number="numberTwo">
             <button id="submit-button">=</button>
             <button id="clear-button">C</button>
+        </div>
+        <div>
+            <h2>Answer: <span id="mathAnswer"></span></h2>
+            <ul id="history">
+
+            </ul>
         </div>
     </div>
 </body>
